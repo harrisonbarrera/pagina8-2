@@ -12,7 +12,7 @@
     
     body{
     
-    background-image: url("antioquia.jpg");
+    background-image: url("fondo.jpg");
     
     background-repeat: no-repeat;
     
@@ -24,7 +24,7 @@
     
     position: relative;
     
-     top: 100px;
+     
     
     width: 190px;
     
@@ -38,7 +38,7 @@
     
     left: 180px;
     
-    background-image: url("descarga.png");
+    background-image: url("medellin.jpeg");
     
     }
     
@@ -46,7 +46,7 @@
     
      
     
-    height: 100px;
+    height: 230px;
     
      
     
