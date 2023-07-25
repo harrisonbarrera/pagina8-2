@@ -195,7 +195,7 @@
                     
                 margin-right:20px;
                     
-                background-image: url("mapa\ mental.png"); 
+                background-image: url("mapa\ mental1.drawio\ \(1\)\ \(2\).drawio\ \(1\).png"); 
                 
                 
                 
@@ -266,4 +266,54 @@
                 font-size: 20px;
                 font-family: Arial, Helvetica, sans-serif
                 
+            }
+            .contenedorbiologia{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 300px
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenbiologia{
+                
+                background-repeat: no-repeat;
+            
+                float:right;
+                    
+                height: 250px;
+                    
+                width: 500px;
+                    
+                margin-left: 5px;
+                    
+                margin-right:5px;
+                    
+              background-image: url("fibro.png");
+                
+                
+              
+            
+                
+                }
+                
+                
+                
+                .textobiologia{
+                
+                text-align: justify;
+                
+                color: rgb(7, 0, 0);
+                
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif
+
             }
