@@ -99,7 +99,7 @@
         
         margin-right:5px;
         
-        background-image: url("antioquia.jpg");
+        background-image: url("");
         
         }
         
@@ -195,11 +195,8 @@
                     
                 margin-right:20px;
                     
-                background-image: url("mapa\ mental1.drawio\ \(1\)\ \(2\).drawio\ \(1\).png"); 
+                background-image: url("mapa\ mental1.drawio\ \(1\)\ \(2\).drawio.png");
                 
-                
-                
-              
             
                 
                 }
@@ -291,13 +288,13 @@
                     
                 height: 250px;
                     
-                width: 500px;
+                width: 300px;
                     
                 margin-left: 5px;
                     
                 margin-right:5px;
                     
-              background-image: url("fibro.png");
+              background-image: url("fibro.png"); 
                 
                 
               
