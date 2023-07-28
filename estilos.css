@@ -18,15 +18,7 @@
     background-size: cover;
     
     }
-    .imgsocia{
     
-        background-image: url("814be7e3-66a2-49f7-b64f-1dbadcfd1651.png");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-        
     
     
     .img{
@@ -195,9 +187,9 @@
             
                 float:right;
                     
-                height: 348px;
+                height: 250px;
                     
-                width: 405px;
+                width: 300px;
                     
                 margin-left: 20px;
                     
@@ -221,27 +213,6 @@
                 font-family: Arial, Helvetica, sans-serif
                 
             }
-
-            .imagensociales2{
-                
-                background-repeat: no-repeat;
-            
-                float:right;
-                    
-                height: 250px;
-                    
-                width: 300px;
-                    
-                margin-left: 20px;
-                    
-                margin-right:20px;
-                    
-                background-image: url("814be7e3-66a2-49f7-b64f-1dbadcfd1651.png");
-                
-            
-                
-                }
-
             .contenedormatematicas{
 
                 height: 280px;
@@ -330,7 +301,27 @@
             
                 
                 }
+                .imagenbiologia2{
                 
+                    background-repeat: no-repeat;
+                
+                    float:right;
+                        
+                    height: 250px;
+                        
+                    width: 300px;
+                        
+                    margin-left: 5px;
+                        
+                    margin-right:5px;
+                        
+                  background-image: url("th.jpg"); 
+                    
+                    
+                  
+                
+                    
+                    }
                 
                 
                 .textobiologia{
@@ -343,35 +334,3 @@
                 font-family: Arial, Helvetica, sans-serif
 
             }
-            .imagenbiologia2{
-                
-                background-repeat: no-repeat;
-            
-                float:right;
-                    
-                height: 250px;
-                    
-                width: 300px;
-                    
-                margin-left: 5px;
-                    
-                margin-right:5px;
-                    
-              background-image: url("th.jpg"); 
-            }
-            
-.contenido{
-
-    height: 280px;
-    
-    width: 100%;
-    
-    position: absolute;
-    
-    top: 410px;
-    
-     
-    
-    }
-                
-                
