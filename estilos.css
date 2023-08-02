@@ -37,9 +37,9 @@
     
      
     
-    left: 180px;
+    left: 800px;
     
-    background-image: url("medellin3.jpeg");
+    background-image: url("descarga.jpg");
     background-size: contain;
     
     }
@@ -187,14 +187,13 @@
             
                 float:right;
                     
-                height: 250px;
+                height: 860px;
                     
-                width: 300px;
+                width: 600px;
                     
                 margin-left: 20px;
                     
                 margin-right:20px;
-                    
                 background-image: url("mapa\ mental1.drawio\ \(1\)\ \(2\).drawio.png");
                 
             
