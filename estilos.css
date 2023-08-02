@@ -99,11 +99,89 @@
         
         margin-right:5px;
         
-        background-image: url("");
+        background-image: url("descarga5.jpg");
         
         }
         
+        .imagentecno2{
         
+                                       
+            background-repeat: no-repeat;
+                                                
+                                               
+            float:center;
+                                                
+                                                
+            height: 200px;
+                                                
+                                                
+            width: 260px;
+                                                
+                                                
+                                                
+            margin-left: 5px;
+                                                
+                                                
+            margin-right:5px;
+                                                
+                                                
+            background-image: url("images.jpg");
+                                                
+                                                
+        }
+        .imagentecno3{
+                
+                                               
+            background-repeat: no-repeat;
+                                                
+                                               
+            float:center;
+                                                
+                                                
+            height: 200px;
+                                                
+                                                
+            width: 260px;
+                                                
+                                                
+                                                
+            margin-left: 5px;
+                                                
+                                                
+            margin-right:5px;
+                                                
+                                                
+            background-image: url("images\ \(1\).jpg");
+                                                
+                                                
+        }
+        
+        .imagentecno4{
+                
+                                               
+            background-repeat: no-repeat;
+                                                
+                                               
+            float:center;
+                                                
+                                                
+            height: 200px;
+                                                
+                                                
+            width: 260px;
+                                                
+                                                
+                                                
+            margin-left: 5px;
+                                                
+                                                
+            margin-right:5px;
+                                                
+                                                
+            background-image: url("images2.png");
+                                                
+                                                
+        }
         
         .textotecno{
         
