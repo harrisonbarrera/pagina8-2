@@ -14,7 +14,7 @@
     
     background-image: url("antioquia.jpg");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     
     }
@@ -33,7 +33,7 @@
     
     border-radius: 10px;
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
      
     
@@ -48,7 +48,7 @@
     
      
     
-    height: 230px;
+    height: 109px;
     
      
     
@@ -411,3 +411,265 @@
                 font-family: Arial, Helvetica, sans-serif
 
             }
+
+            .textoingles3{
+                
+                text-align: justify;
+                
+                color: rgb(7, 0, 0);
+                
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif
+
+            }
+
+            .imageningles{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("descarga1.jpg");
+                
+                }
+
+                .imageningles2{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("images\ \(2\).jpg");
+                    
+                    }
+
+                    .imageningles3{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("at.jpg");
+                        
+                        }
+
+                        .imageningles4{
+        
+         
+        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("h.jpg");
+                            
+                            }
+
+                            .imageningles5{
+        
+         
+        
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("m.jpg");
+                                
+                                }
+
+                                .imageningles6{
+        
+         
+        
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("q.jpg");
+                                    
+                                    }
+
+                                    .imageningles7{
+        
+         
+        
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 200px;
+                                        
+                                        width: 260px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("r.jpg");
+                                        
+                                        }
+
+                                        .imageningles8{
+        
+         
+        
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("f.jpg");
+                                            
+                                            }
+
+                                            .imagentecnologia{
+        
+         
+        
+                                                background-repeat: no-repeat;
+                                                
+                                                float:left;
+                                                
+                                                height: 241px;
+                                                
+                                                width: 326px;
+                                                
+                                                margin-left: 5px;
+                                                
+                                                margin-right:5px;
+                                                
+                                                background-image: url("y.png");
+                                                
+                                                }
+
+                                                .imagentecnologia2{
+        
+         
+        
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:right;
+                                                    
+                                                    height: 200px;
+                                                    
+                                                    width: 260px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url("t.jpg");
+                                                    
+                                                    }
+
+                                                    .imagentecnologia3{
+        
+         
+        
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:right;
+                                                        
+                                                        height: 253px;
+                                                        
+                                                        width: 329px;
+                                                        
+                                                        margin-left: 6px;
+                                                        
+                                                        margin-right:14px;
+                                                        
+                                                        background-image: url("a.jpg");
+                                                        
+                                                        }
+
+                                                        .textotecnologia{
+                
+                                                            text-align: justify;
+                                                            
+                                                            color: rgb(7, 0, 0);
+                                                            
+                                                            font-size: 20px;
+                                                            font-family: Arial, Helvetica, sans-serif
+                                                            
+                                                        }
+
+                                                        .imagensos{
+        
+         
+        
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:right;
+                                                            
+                                                            height: 543px;
+                                                            
+                                                            width: 789px;
+                                                            
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:-300px;
+                                                            
+                                                            background-image: url("La\ revolucion\ industrial_20231025_100505_0000.pdf.png");
+                                                            
+                                                            }
